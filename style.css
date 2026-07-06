@@ -17,7 +17,7 @@ strong {
 }
 
 main {
-    background-image: url("/NetFlix/Images/netflix-bg.jpg");
+    background-image: url("Images/netflix-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
