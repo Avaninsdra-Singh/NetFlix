@@ -43,5 +43,4 @@ Then open `http://localhost:8000` in your browser.
 
 - Add mobile-specific navigation tweaks for smaller screens
 - Convert the trending list into an interactive carousel
-- Fix any broken image path issues if assets are moved
 - Improve accessibility for forms and link focus states
